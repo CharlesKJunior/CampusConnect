@@ -37,7 +37,7 @@ CampusConnect/
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CampusConnect.git
+   git clone https://github.com/CharlesKJunior/CampusConnect.git
    cd CampusConnect
    ```
 2. Create a virtual environment and activate it:
